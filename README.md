@@ -9,7 +9,7 @@ Profiles are currently available for :
 
 ## Installation
 
-  - Edit the **profiles/<minerName>.cmd** you want to use.(See above for available miners or add another <minerName>.cmd file with a new command line mining software)
+  - Edit the **profiles/%minerName%.cmd** you want to use.(See above for available miners or add another <minerName>.cmd file with a new command line mining software)
   - Set path, pool, wallet and other parameters
   - Save the file
 
