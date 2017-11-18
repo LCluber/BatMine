@@ -17,16 +17,14 @@ Profiles are currently available for :
     - Edit **cmd.bat**
     - Set the miner you want to use.
     - Save **cmd.bat**
+    - Execute **cmd.bat** to start mining
 
   - **For Cmder only** :
     - Edit **cmder.bat**
     - Set Cmder folder and the miner you want to use
     - Save **cmder.bat**
     - Execute **cmder.bat**. It will copy the right profile into the Cmder config/ folder. (Execute cmder.bat every time you modify your profile)
-
-  - Execute **cmd.bat** to start mining with **cmd.exe**
-  - Start **Cmder** to start mining with **Cmder**.
-
+    - Start **Cmder** to start mining
 
   - To start mining at windows start up, add a new task in the Task Scheduler [like this](https://www.howtogeek.com/138159/how-to-enable-programs-and-custom-scripts-to-run-at-boot/). Then set it to open **Cmder** or **cmd.bat** at log on.
 
