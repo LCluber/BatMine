@@ -1,9 +1,9 @@
 ## Synopsis
 
-Mine crypto currencies automatically at Windows start up using **cmd.exe** or [**Cmder**](http://cmder.net).
+Mine crypto currencies automatically at Windows startup using **cmd.exe** or [**Cmder**](http://cmder.net).
 
 Profiles are currently available for :
-  - **Ethminer**
+  - **ethminer**
   - **ccminer**
   - **xmrMiner**
 
@@ -26,7 +26,7 @@ Profiles are currently available for :
     - Execute **cmder.bat**. It will copy the right profile into the Cmder config/ folder. (Execute cmder.bat every time you modify your profile)
     - Start **Cmder** to start mining
 
-  - To start mining at windows start up, add a new task in the Task Scheduler [like this](https://www.howtogeek.com/138159/how-to-enable-programs-and-custom-scripts-to-run-at-boot/). Then set it to open **Cmder** or **cmd.bat** at log on.
+  - To start mining at windows startup, add a new task in the Task Scheduler [like this](https://www.howtogeek.com/138159/how-to-enable-programs-and-custom-scripts-to-run-at-boot/). Then set it to open **Cmder** or **cmd.bat** at log on.
 
 
 ## Contributors
