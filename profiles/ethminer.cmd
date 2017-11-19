@@ -11,4 +11,4 @@ set WORKERNAME=Worker2
 set CONFIG=-U
 set CMD=ethminer -F %POOL%/%WALLET%/%WORKERNAME% %CONFIG%
 cd %FOLDER%
-%CMD%"
+%CMD%

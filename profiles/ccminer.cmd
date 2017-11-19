@@ -11,4 +11,4 @@ set PASSWORD=x
 set LAUNCH=8x40
 set CMD=ccminer -o %POOL% -u %WALLET% -p %PASSWORD% -l %LAUNCH%
 cd %FOLDER%
-%CMD%"
+%CMD%

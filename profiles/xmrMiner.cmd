@@ -11,4 +11,4 @@ set PASSWORD=x
 set DONATION=2.0
 set CMD=xmrMiner_0.2.1.exe --url=%POOL% -u %WALLET% -p %PASSWORD% --donate=%DONATION%
 cd %FOLDER%
-%CMD%"
+%CMD%
