@@ -4,7 +4,7 @@
 :: call "%GIT_INSTALL_ROOT%/cmd/start-ssh-agent.cmd"
 :: set "PATH=%CMDER_ROOT%\vendor\whatever;%PATH%"
 @echo on
-set FOLDER=C:\Users\username\ethminer\bin\
+set FOLDER=C:\Users\username\claymore\
 set POOL1=eu1.ethermine.org:4444
 set WALLET=0x69593a8875894bed5665a71d8bd0fdd9980cac93
 set WORKERNAME=Worker2
